@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @fofsky
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m fofana
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning angular
+- 💞️ I’m looking forward to collaborate with you
+- 📫 here is my email if you want to contact
+- fofdina@gmail.com
 
-<!---
-fofsky/fofsky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
